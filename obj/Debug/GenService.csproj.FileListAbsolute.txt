@@ -1,0 +1,7 @@
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\bin\GenService.dll.config
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\bin\GenService.dll
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\bin\GenService.pdb
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\bin\GAF.dll
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\obj\Debug\GenService.dll
+C:\Users\Jakub\Documents\Visual Studio 2013\Projects\GenService\obj\Debug\GenService.pdb
